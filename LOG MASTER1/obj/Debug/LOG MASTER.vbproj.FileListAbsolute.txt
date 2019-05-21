@@ -1,0 +1,36 @@
+C:\Users\palmm\AppData\Local\Temporary Projects\LOG MASTER\bin\Debug\LOG MASTER.exe.config
+C:\Users\palmm\AppData\Local\Temporary Projects\LOG MASTER\bin\Debug\LOG MASTER.exe
+C:\Users\palmm\AppData\Local\Temporary Projects\LOG MASTER\bin\Debug\LOG MASTER.pdb
+C:\Users\palmm\AppData\Local\Temporary Projects\LOG MASTER\bin\Debug\LOG MASTER.xml
+C:\Users\palmm\AppData\Local\Temporary Projects\LOG MASTER\obj\Debug\LOG MASTER.vbprojResolveAssemblyReference.cache
+C:\Users\palmm\AppData\Local\Temporary Projects\LOG MASTER\obj\Debug\LOG_MASTER.LOGPRINCIPAL.resources
+C:\Users\palmm\AppData\Local\Temporary Projects\LOG MASTER\obj\Debug\LOG_MASTER.Resources.resources
+C:\Users\palmm\AppData\Local\Temporary Projects\LOG MASTER\obj\Debug\LOG_MASTER.REGISTRAR.resources
+C:\Users\palmm\AppData\Local\Temporary Projects\LOG MASTER\obj\Debug\LOG MASTER.vbproj.GenerateResource.Cache
+C:\Users\palmm\AppData\Local\Temporary Projects\LOG MASTER\obj\Debug\LOG MASTER.exe
+C:\Users\palmm\AppData\Local\Temporary Projects\LOG MASTER\obj\Debug\LOG MASTER.xml
+C:\Users\palmm\AppData\Local\Temporary Projects\LOG MASTER\obj\Debug\LOG MASTER.pdb
+J:\VISUAL BASIC\LOG MASTER1\LOG MASTER1\bin\Debug\LOG MASTER1.exe.config
+J:\VISUAL BASIC\LOG MASTER1\LOG MASTER1\bin\Debug\LOG MASTER1.exe
+J:\VISUAL BASIC\LOG MASTER1\LOG MASTER1\bin\Debug\LOG MASTER1.pdb
+J:\VISUAL BASIC\LOG MASTER1\LOG MASTER1\bin\Debug\LOG MASTER1.xml
+J:\VISUAL BASIC\LOG MASTER1\LOG MASTER1\bin\Debug\MySql.Data.dll
+J:\VISUAL BASIC\LOG MASTER1\LOG MASTER1\bin\Debug\MySql.Data.Entity.EF6.dll
+J:\VISUAL BASIC\LOG MASTER1\LOG MASTER1\bin\Debug\MySql.Web.dll
+J:\VISUAL BASIC\LOG MASTER1\LOG MASTER1\bin\Debug\MySql.Data.xml
+J:\VISUAL BASIC\LOG MASTER1\LOG MASTER1\bin\Debug\MySql.Data.Entity.EF6.xml
+J:\VISUAL BASIC\LOG MASTER1\LOG MASTER1\bin\Debug\MySQL.Data.EntityFrameworkCore.xml
+J:\VISUAL BASIC\LOG MASTER1\LOG MASTER1\bin\Debug\MySQL.Data.EntityFrameworkCore.Design.xml
+J:\VISUAL BASIC\LOG MASTER1\LOG MASTER1\bin\Debug\MySql.Web.xml
+J:\VISUAL BASIC\LOG MASTER1\LOG MASTER1\obj\Debug\LOG MASTER.vbprojResolveAssemblyReference.cache
+J:\VISUAL BASIC\LOG MASTER1\LOG MASTER1\obj\Debug\LOG_MASTER.CONSULTARWEB.resources
+J:\VISUAL BASIC\LOG MASTER1\LOG MASTER1\obj\Debug\LOG_MASTER.CREAR_BANCO.resources
+J:\VISUAL BASIC\LOG MASTER1\LOG MASTER1\obj\Debug\LOG_MASTER.Resources.resources
+J:\VISUAL BASIC\LOG MASTER1\LOG MASTER1\obj\Debug\LOG_MASTER.REGISTRAR.resources
+J:\VISUAL BASIC\LOG MASTER1\LOG MASTER1\obj\Debug\LOG_MASTER.REGISTRAR_TARJETA.resources
+J:\VISUAL BASIC\LOG MASTER1\LOG MASTER1\obj\Debug\LOG MASTER.vbproj.GenerateResource.Cache
+J:\VISUAL BASIC\LOG MASTER1\LOG MASTER1\obj\Debug\LOG MASTER.vbproj.CoreCompileInputs.cache
+J:\VISUAL BASIC\LOG MASTER1\LOG MASTER1\obj\Debug\LOG MASTER1.exe
+J:\VISUAL BASIC\LOG MASTER1\LOG MASTER1\obj\Debug\LOG MASTER1.xml
+J:\VISUAL BASIC\LOG MASTER1\LOG MASTER1\obj\Debug\LOG MASTER1.pdb
+J:\VISUAL BASIC\LOG MASTER1\LOG MASTER1\obj\Debug\LOG_MASTER.LOGPRINCIPAL.resources
